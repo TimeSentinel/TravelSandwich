@@ -153,11 +153,12 @@ li a:hover {
     width: 50%;
     margin: auto;
     text-align: left;
+    
 }
 
 .result {
     width: 70%;
-/*    height: 700px; */
+    height: 1200px; 
     margin: auto;
     text-align: center;
 }
